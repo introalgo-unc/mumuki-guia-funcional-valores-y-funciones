@@ -14,9 +14,7 @@ Veamos ejemplos: si a esta caja negra le ponemos en su entrada
 * el número 10, obtendremos a su salida el numero 11
 * etc
 
-¿Fácil, no?
-
-En Haskell esta función se escribe así:
+¿Fácil, no? En Haskell esta función se escribe así:
 
 ```haskell
 siguiente numero = numero + 1
