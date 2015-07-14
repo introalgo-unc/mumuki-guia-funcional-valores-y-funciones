@@ -1,7 +1,6 @@
 ---
-locale: en
+locale: es
 learning: true
 beta: true
 language: haskell
 original_id_format: '%05d'
-order: []
