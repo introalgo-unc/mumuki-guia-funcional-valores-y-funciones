@@ -1,6 +1,6 @@
 expectations:
  - inspection: HasBinding
    binding: anterior
- - inspection: HasUsage
-   binding: "-"
+ - inspection: HasUsage:-
+   binding: anterior
 
