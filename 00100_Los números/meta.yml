@@ -1,7 +1,6 @@
-meta:
-  - tags:
-    - funcional
-    - basico
-    - numeros
-    - valores
-    - variables
+tags:
+  - funcional
+  - basico
+  - numeros
+  - valores
+  - variables
