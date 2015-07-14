@@ -6,5 +6,5 @@ Y aunque estas ideas fueron desarrolladas por matemáticos, la buena noticia es 
 
 Ah, ¿y sabés que es lo mejor? Que este paradigma es **muy simple**, pero te permite hacer **cosas muy poderosas**: con muy poquitas herramientas podés hacerlo todo. Por eso decimos que _funcional_ te permite **dominar al mundo con nada**.
 
-Y una de esas herramientas, como te imaginarás, es la que le da el nombre al paradigma: la `función`. ¡Aprendamos juntos de qué se trata! ¡Acompañanos!
+Suficiente introducción por ahora, ¡empecemos a programar en _funcional_, utilizando el lenguaje de programación Haskell! ¡Acompañanos!
 
