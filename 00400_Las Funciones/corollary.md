@@ -10,3 +10,4 @@ La función se llama `anterior`: una caja negra que toma un `numero` a su entrad
 
 A la entrada de una función se la conoce como **parámetro**, y a la salida como **retorno** (ó **imágen**). En este caso el `numero` es el parámetro y el retorno o imágen es `numero - 1`.
 
+Y finalmente cuando **apliquemos** a `anterior`, por ejemplo, con el valor 3, obtendremos como salida el valor 2.

@@ -1,14 +1,14 @@
 Estamos aprendiendo sobre el paradigma **funnnnnn**cional... ¡adiviná cual es otro elemento fundamental del paradigma! ¡Las funciones!
 
-La idea es simple: una función es una caja negra, a la que entra algo, y de la que sale otra cosa:
+La idea es simple: una función es una **caja negra**, a la que entra algo, y de la que sale otra cosa:
 
-[blackbox.png](./images/blackbox.png)
+[blackbox.png](https://raw.githubusercontent.com/pdep-utn/mumuki-funcional-guia-0/images/blackbox.png)
 
 Por ejemplo, una función muy simple es la que calcula el _siguiente_ de un número, esto es, el número original más 1:
 
-[blackbox_succ.png](./images/blackbox_succ.png)
+[blackbox_succ.png](https://raw.githubusercontent.com/pdep-utn/mumuki-funcional-guia-0/images/blackbox_succ.png)
 
-Veamos ejemplos: si a esta caja negra le ponemos en su entrada
+Veamos ejemplos: si a esta función la aplicamos (es decir, ponemos en su entrada) con:
 
 * el número 1, obtendremos a su salida el numero 2
 * el número 10, obtendremos a su salida el numero 11

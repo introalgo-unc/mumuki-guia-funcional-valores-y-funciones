@@ -1,0 +1,8 @@
+expectations:
+ - inspection: HasBinding
+   binding: doble
+ - inspection: HasUsage:*
+   binding: doble
+ - inspection: HasBinding
+   binding: cuadrado
+
