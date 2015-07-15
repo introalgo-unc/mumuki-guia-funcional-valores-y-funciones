@@ -7,7 +7,7 @@ dobleDelSiguiente numero = (numero + 1) * 2
 ¡Y funciona! Pero nosotros ya definimos antes funciones que hacen las partes mas chicas del problema: `doble` y `siguiente`. Entonces, podemos pensar que la caja negra `dobleDelSiguiente`:
 
 
-![blackbox.png](https://raw.githubusercontent.com/pdep-utn/mumuki-funcional-guia-0/images/master/blackbox_succ_double.png)
+![blackbox.png](https://raw.githubusercontent.com/pdep-utn/mumuki-funcional-guia-0/master/images/blackbox_succ_double.png)
 
 se puede pensar así:
 
