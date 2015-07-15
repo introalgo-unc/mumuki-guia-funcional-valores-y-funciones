@@ -1,0 +1,6 @@
+expectations:
+ - inspection: HasBinding
+   binding: doble
+ - inspection: HasPrefixApplication:*
+   binding: doble
+
