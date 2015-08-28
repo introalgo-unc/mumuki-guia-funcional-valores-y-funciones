@@ -1,0 +1,9 @@
+expectations:
+ - inspection: HasBinding
+   binding: tripleDelAnterior
+ - inspection: HasComposition
+   binding: tripleDelAnterior
+ - inspection: HasUsage
+   binding: triple
+ - inspection: HasUsage
+   binding: anterior
