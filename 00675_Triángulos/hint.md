@@ -1,0 +1,1 @@
+El perḿetro de un triángulo es la suma de sus tres lados.
