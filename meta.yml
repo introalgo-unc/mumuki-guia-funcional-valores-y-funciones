@@ -3,4 +3,5 @@ locale: es
 learning: true
 beta: true
 language: haskell
+name: Introduccion
 original_id_format: '%05d'
