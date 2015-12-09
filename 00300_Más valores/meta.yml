@@ -1,8 +1,10 @@
+---
 tags:
-  - funcional
-  - basico
-  - booleanos
-  - strings
-  - valores
-  - variables
-locale: es
+- funcional
+- basico
+- booleanos
+- strings
+- valores
+- variables
+layout: editor_right
+type: problem

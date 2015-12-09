@@ -1,8 +1,8 @@
+---
 expectations:
- - inspection: HasBinding
-   binding: cantidadRuedasBicicleta
- - inspection: HasBinding
-   binding: cantidadRuedasMoto
- - inspection: HasUsage:cantidadRuedasBicicleta
-   binding: cantidadRuedasMoto
-
+- binding: cantidadRuedasBicicleta
+  inspection: HasBinding
+- binding: cantidadRuedasMoto
+  inspection: HasBinding
+- binding: cantidadRuedasMoto
+  inspection: HasUsage:cantidadRuedasBicicleta

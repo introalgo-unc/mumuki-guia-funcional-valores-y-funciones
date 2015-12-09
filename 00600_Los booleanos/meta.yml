@@ -1,7 +1,9 @@
+---
 tags:
-  - funcional
-  - basico
-  - numeros
-  - funciones
-  - booleanos
-locale: es
+- funcional
+- basico
+- numeros
+- funciones
+- booleanos
+layout: editor_right
+type: problem

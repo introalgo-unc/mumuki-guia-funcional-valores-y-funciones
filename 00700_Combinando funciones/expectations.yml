@@ -1,7 +1,8 @@
+---
 expectations:
- - inspection: HasBinding
-   binding: dobleDelCuadrado
- - inspection: HasUsage:doble
-   binding: dobleDelCuadrado
- - inspection: HasUsage:cuadrado
-   binding: dobleDelCuadrado
+- binding: dobleDelCuadrado
+  inspection: HasBinding
+- binding: dobleDelCuadrado
+  inspection: HasUsage:doble
+- binding: dobleDelCuadrado
+  inspection: HasUsage:cuadrado

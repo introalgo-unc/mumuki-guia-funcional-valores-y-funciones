@@ -1,6 +1,6 @@
+---
 expectations:
- - inspection: HasBinding
-   binding: peliculaFavoritaAna
- - inspection: HasBinding
-   binding: marioTieneGato
-
+- binding: peliculaFavoritaAna
+  inspection: HasBinding
+- binding: marioTieneGato
+  inspection: HasBinding

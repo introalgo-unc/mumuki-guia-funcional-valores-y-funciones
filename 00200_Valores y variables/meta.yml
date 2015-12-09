@@ -1,7 +1,9 @@
+---
 tags:
-  - funcional
-  - basico
-  - numeros
-  - valores
-  - variables
-locale: es
+- funcional
+- basico
+- numeros
+- valores
+- variables
+layout: editor_right
+type: problem

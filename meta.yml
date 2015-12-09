@@ -1,7 +1,19 @@
 ---
+name: Introduccion
 locale: es
-learning: true
+learning: false
 beta: true
 language: haskell
-name: Introduccion
 original_id_format: '%05d'
+order:
+- 100
+- 200
+- 300
+- 400
+- 500
+- 600
+- 650
+- 675
+- 700
+- 800
+- 1100
