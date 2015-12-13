@@ -1,7 +1,7 @@
 ---
 name: Valores y Funciones
 locale: es
-learning: false
+learning: true
 beta: true
 language: haskell
 original_id_format: '%05d'
