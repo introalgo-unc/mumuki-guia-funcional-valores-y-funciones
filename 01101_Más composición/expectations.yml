@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: masDos
+  inspection: HasComposition
+- binding: masDos
+  inspection: HasUsage:Siguiente

@@ -1,0 +1,1 @@
+Ahora te toca a vos, definí la función `masDos`, usando la función `siguiente` y composición. 
