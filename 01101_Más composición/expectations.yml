@@ -4,5 +4,3 @@ expectations:
   inspection: HasComposition
 - binding: masDos
   inspection: HasUsage:siguiente
-- binding: ''
-  inspection: ''
