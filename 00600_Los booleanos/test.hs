@@ -1,9 +1,9 @@
-describe "esNegativo" $ do
-  it "4 no es" $ do
+describe "es negativo" $ do
+  it "esNegativo 4 es False" $ do
     esNegativo 4 `shouldBe` False
 
-  it "0 no lo es" $ do
+  it "esNegativo 0 es False" $ do
     esNegativo 0 `shouldBe` False
 
-  it "(-4) si lo es" $ do
+  it "esNegativo (-4) es True" $ do
     esNegativo (-4) `shouldBe` True
