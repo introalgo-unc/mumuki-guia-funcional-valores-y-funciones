@@ -1,4 +1,4 @@
-describe "areaRectángulo" $ do
+describe "areaRectangulo" $ do
   it "para 3 4 es 12" $ do
     areaRectangulo 3 4 `shouldBe` 12
 
