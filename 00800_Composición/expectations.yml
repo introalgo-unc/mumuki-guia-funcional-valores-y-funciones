@@ -4,7 +4,7 @@ expectations:
   inspection: HasBinding
 - binding: tripleDelAnterior
   inspection: HasComposition
-- binding: triple
-  inspection: HasUsage
-- binding: anterior
-  inspection: HasUsage
+- binding: tripleDelAnterior
+  inspection: HasUsage:triple
+- binding: tripleDelAnterior
+  inspection: HasUsage:anterior
