@@ -1,4 +1,4 @@
-Empecemos por lo simple: los números. En Haskell tenemos números como el `4`, el `1.5` (que en español se lee _1,5_) , el `-89` o el `200139`.
+Empecemos por lo simple: :smile: los números. En Haskell tenemos números como el `4`, el `1.5` (que en español se lee _1,5_) , el `-89` o el `200139`.
 
 ¡Podemos tener números tan chicos o grandes como queramos!
 
