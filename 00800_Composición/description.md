@@ -1,4 +1,4 @@
-Interesante esto de definir funciones combinando otras ¿no?
+Interesante esto de definir funciones combinando otras, ¿no?
 
 Antes vimos un caso en el que una función grande es simplemente aplicar una función "chica", y al resultado, aplicarle otra función "chica":
 
