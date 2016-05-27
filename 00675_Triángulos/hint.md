@@ -1,1 +1,1 @@
-El perḿetro de un triángulo es la suma de sus tres lados.
+El perímetro de un triángulo es la suma de sus tres lados.
