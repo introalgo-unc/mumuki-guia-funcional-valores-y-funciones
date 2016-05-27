@@ -1,6 +1,6 @@
 Ahora nos topamos con un problema nuevo: queremos calcular el perímetro de un rectángulo.
 
-La fórmula de hacer esto es muy simple: dos veces la longitud del lado mayor, más dos veces la longitud del lado menor. Lo cual no es nada del otro mundo, pero implica pasar dos parámetros en lugar de uno a la funcion:
+La fórmula de hacer esto es muy simple: dos veces la longitud del lado mayor, más dos veces la longitud del lado menor. Lo cual no es nada del otro mundo, pero implica pasar dos parámetros en lugar de uno a la función:
 
 ```haskell
 perimetroRectangulo lado1 lado2 = 2 * lado1 + 2 * lado2
