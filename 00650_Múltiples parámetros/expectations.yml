@@ -2,3 +2,5 @@
 expectations:
 - binding: areaRectangulo
   inspection: HasBinding
+- binding: "*"
+  inspection: Except:HasRedundantParameter
