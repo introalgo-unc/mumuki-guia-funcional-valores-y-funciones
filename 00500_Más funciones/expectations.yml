@@ -2,7 +2,5 @@
 expectations:
 - binding: doble
   inspection: HasBinding
-- binding: doble
-  inspection: HasUsage:*
 - binding: cuadrado
   inspection: HasBinding
