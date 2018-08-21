@@ -6,4 +6,4 @@ Ahora te toca a vos, escribí las siguientes dos funciones:
 
 * `cuadrado`: que toma un número y devuelve su cuadrado
 
-![blackbox.png](https://raw.githubusercontent.com/pdep-utn/mumuki-funcional-guia-0/master/images/blackbox_square.png)
+![blackbox.png](https://raw.githubusercontent.com/pdep-utn/mumuki-funcional-guia-0/master/images/blackbox_square.png) 
