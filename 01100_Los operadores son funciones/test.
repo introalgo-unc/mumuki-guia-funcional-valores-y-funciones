@@ -3,7 +3,7 @@ describe "" $ do
     doble 2 `shouldBe` 4
 
   it "doble de 4 es 8" $ do
-    doble 2 `shouldBe` 4
+    doble 4 `shouldBe` 8
 
   it "doble de 13 es 26" $ do
-    doble 2 `shouldBe` 4
+    doble 13 `shouldBe` 26

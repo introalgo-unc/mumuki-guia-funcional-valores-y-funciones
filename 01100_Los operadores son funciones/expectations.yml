@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: doble
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: doble
   inspection: HasBinding

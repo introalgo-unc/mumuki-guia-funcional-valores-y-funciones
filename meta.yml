@@ -3,7 +3,6 @@ name: Valores y Funciones
 locale: es
 type: learning
 beta: true
-teacher_info: ''
 language: haskell
 id_format: "%05d"
 order:
@@ -19,3 +18,4 @@ order:
 - 800
 - 1101
 - 1100
+private: false

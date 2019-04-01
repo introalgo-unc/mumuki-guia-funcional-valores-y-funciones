@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: peliculaFavoritaAna
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: peliculaFavoritaAna
   inspection: HasBinding
-- binding: marioTieneGato
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: marioTieneGato
   inspection: HasBinding
